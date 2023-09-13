@@ -32,4 +32,5 @@ app.get('/kontakt', (req, res) => {
 
 app.listen(5000, () => {
     console.log("Server is working!!");
+    //test
 });
